@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+class UserManagementPractice {
+    private func printUsers(){
+        print("Utsav Pandya!!")
+    }
+}
